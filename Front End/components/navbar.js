@@ -10,6 +10,7 @@ const Navbar = () => (
         <Link href="/catls"><a> Cat </a></Link> |
         <Link href="/getConfig"><a> Config </a></Link> | 
         <Link href="/logout"><a> Logout </a></Link> 
+       
     </div>
 )
 
