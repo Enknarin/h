@@ -66,6 +66,7 @@ const Profile2 = ({token}) => {
                 <Navbar />
                 <div>
                     <h1>---Students---</h1>
+                    <h1>---Students---</h1>
                     {showStudents()}
                     <div><Link href="/editProfile"><a><b>Edit</b> </a></Link> </div>
                 </div>
